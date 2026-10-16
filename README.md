@@ -29,6 +29,8 @@ pip install fonttools uharfbuzz regex pillow
 ```
 python main_thai.py
 ```
+<img width="1124" height="885" alt="រូបភាពអេក្រង់ 2026-10-16 123946" src="https://github.com/user-attachments/assets/0a813392-379d-488a-84fa-66a17b95e535" />
+
 
 ### Option 1 — สร้างฟอนต์ใหม่
 
@@ -62,3 +64,7 @@ python main_thai.py
 1. ใส่ไฟล์ `.txt` ภาษาไทยของเกมนั้นไว้ในโฟลเดอร์เดียวกัน
 2. ใช้ **Option 1** เพื่อสร้าง `Thai_PUA.ttf` และ `mapping.json` ใหม่ พร้อมแปลงไฟล์นั้น
 3. ตั้งชื่อหรือแยกโฟลเดอร์ผลลัพธ์สำหรับแต่ละเกมให้ชัดเจน จะได้ไม่สับสน
+
+   # บริเวณที่ห้ามสัมผัส
+   <img width="1067" height="65" alt="រូបភាពអេក្រង់ 2026-10-16 124013" src="https://github.com/user-attachments/assets/5d96067b-8b2d-448c-9a45-2ac3f6775b4b" />
+
